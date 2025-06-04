@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Montserrat García Rodenas"
+  pronouns         :  "she/her"  
+  bio              : "Spanish Instructor and Researcher"
+  location         : "Walla Walla, WA, USA"
+  employer         : "Whitman College"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "garciarodenm@whitman.edu" 
 
   # Academic websites
   academia         : # URL
